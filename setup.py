@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='GEOMetadataDownloader',
-    version='0.1',
+    version='0.1.1',
     packages=find_packages(),
     license='MIT',
     description='GEOMetadataDownloader is a Python package designed to effortlessly fetch and organize metadata information from GEO datasets. Seamlessly download and categorize metadata based on types such as RNA, SRA, and more into convenient spreadsheet formats.',
