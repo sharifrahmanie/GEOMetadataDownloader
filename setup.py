@@ -8,7 +8,7 @@ setup(
   author = 'Edris Sharif Rahmani',
   author_email = 'rahmani.biotech@gmail.com',
   url = 'https://github.com/sharifrahmanie/GEOMetadataDownloader',
-  download_url = 'https://github.com/sharifrahmanie/GEOMetadataDownloader.git',
+  download_url = 'https://github.com/sharifrahmanie/GEOMetadataDownloader/archive/refs/tags/v_0.1.tar.gz',
   keywords = ['Gene Expression Omnibus', 'GEO', 'Metadata', 'GSE series', 'GEO sample information'],
   install_requires=[
           'GEOparse',
