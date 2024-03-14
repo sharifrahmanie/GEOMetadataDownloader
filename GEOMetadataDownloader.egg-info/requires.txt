@@ -1,3 +1,0 @@
-GEOparse
-pandas
-tqdm
