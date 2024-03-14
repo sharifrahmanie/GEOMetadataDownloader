@@ -1,15 +1,3 @@
----
-title: "GEOMetadataDownloader"
-author: "Edris Sharif Rahmani"
-date: "2024-03-14"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
 # Installation
 
 ```r{}
