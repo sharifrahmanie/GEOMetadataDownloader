@@ -1,1 +1,1 @@
-from GEOMetadataDownloader.GEOmetadata import GEOMetadataDownloader
+from .GEOmetadata import GEOMetadataDownloader
