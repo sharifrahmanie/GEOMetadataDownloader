@@ -7,7 +7,7 @@ pip install GEOMetadataDownloader
 ### Provide a list of GEO series in a text file such as Accessions.txt (each accession number in a line)
 ### Example:
 ```r{}
-Accessions.txt
+$ cat Accessions.txt
 GSE253742
 GSE164789
 GSE252181
