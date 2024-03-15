@@ -7,7 +7,7 @@
 pip install GEOMetadataDownloader
 ```
 # Running
-### Provide a list of GEO series in a text file such as Accessions.txt (each accession number in a line)
+### Provide a list of GEO series in a text file such as Accessions.txt (each accession number is in a line)
 ### Example:
 
 ```r{}
