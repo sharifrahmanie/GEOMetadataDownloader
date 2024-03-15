@@ -7,12 +7,15 @@ pip install GEOMetadataDownloader
 ## Provide a list of GEO series in a text file such as Accessions.txt (each accession number in a line)
 ## Then run the following commands
 
+
 ```r{}
 from GEOMetadataDownloader.GEOmetadata import GEOMetadataDownloader
-# Initialize the downloader
+```
+
+```r{}
 downloader = GEOMetadataDownloader()
+```
 
-# Start the download process with the filename containing accession numbers
+```r{}
 downloader.download_geo_metadata("Accessions.txt")
-
 ```
